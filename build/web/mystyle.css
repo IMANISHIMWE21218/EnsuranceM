@@ -1,0 +1,23 @@
+
+
+nav ul li  a{
+    text-decoration: none;
+}
+
+form{
+    
+    
+    padding-bottom: 20px;
+    padding-top: 30px;
+}
+
+#footer{
+    background-color: #00b1ba;
+}
+
+#footer a{
+    text-decoration: none;
+    color: #000;
+    
+}
+

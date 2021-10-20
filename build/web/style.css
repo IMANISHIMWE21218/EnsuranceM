@@ -1,0 +1,39 @@
+
+/* 
+    Created on : Apr 16, 2021, 9:25:30 PM
+    Author     : Win 10
+*/
+
+
+/* client nav bar css the hove have issue with blue */
+
+nav a {
+    
+    font-family: sans-serif;
+    color: #ffffff;
+    text-decoration: none;
+    float: left;
+};
+nav a hover {
+    
+   
+    color: #ffffff;
+}
+
+/* client form css*/
+form{
+    
+    
+    padding-bottom: 20px;
+    padding-top: 30px;
+}
+
+nav ul li  a{
+    text-decoration: none;
+}
+
+#footer{
+    color: #00b1ba;
+    
+    
+}
